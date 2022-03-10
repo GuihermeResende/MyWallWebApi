@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\example",
+    "\\src\\main\\java\\com\\example\\MyWallWebApi",
+    "\\src\\main\\java\\com\\example\\MyWallWebApi\\Domain",
+    "\\src\\main\\java\\com\\example\\MyWallWebApi\\Domain\\DTOs",
+    "\\src\\main\\java\\com\\example\\MyWallWebApi\\Service",
+    "\\src\\main\\java\\com\\example\\MyWallWebApi\\Service\\Interface"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\example\\MyWallWebApi\\Service\\Implementation\\MessageService.java",
+  "PreviewInSolutionExplorer": false
+}
